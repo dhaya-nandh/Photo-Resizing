@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: burlywood;
+}
+.container{
+    margin-left:30rem;
+    margin-top: 5em;   
+}
+.images img{
+    width: 200px;
+    height: 300px;
+}
+#aj{
+    display:none;
+}
+#vi{
+    display: none;
+}
+#ka{
+    display: none;
+}
+#ra{
+    display: none;
+}
+h1{
+    display: flex;
+    text-decoration: dashed;
+    color:green;
+    cursor: pointer;
+}
+h1:hover{
+    color:red;
+}
